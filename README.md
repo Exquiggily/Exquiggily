@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Exquiggily
-- 👀 I’m interested in mobile first webbapps
-- 🌱 I’m currently learning flutter
-- 📫 You can reach me 
-- 😄 Pronouns: Any/All
+- 👀 I’m interested in mobile first web-apps
+- 🌱 I’m currently learning Svelte
+- 📫 You can't reach me 
 - ⚡ Fun fact: meow meow meow :3
 
 <!---
